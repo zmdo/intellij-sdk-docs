@@ -72,18 +72,42 @@ NOTE: Entries not starting with code quotes (`name`) can be added to document no
 
 ### IntelliJ Platform 2023.1
 
+`com.intellij.grazie.text.RuleGroup.Companion.getLITERALS() method removed`
+: Replaced by constant field `LITERALS`.
+
 `com.intellij.ui.treeStructure.SimpleNode.doUpdate()` method removed
 : It was replaced by `doUpdate(PresentationData)` which should now only modify the state of its parameter.
 
 `com.intellij.ide.ui.laf.darcula.ui.DarculaProgressBarUI.getFinishedColor()` method removed
-: The new `getFinishedColor(JComponent c)` overload should be used instead.
+: Use `getFinishedColor(JComponent c)` overload instead.
 
 `com.intellij.openapi.externalSystem.view.ExternalSystemNode.setNameAndTooltip(String, String)` method removed
-: The new `setNameAndTooltip(PresentationData, String, String)` overload should be used instead.
+: Use `setNameAndTooltip(PresentationData, String, String)` overload instead.
 
 `com.intellij.openapi.externalSystem.view.ExternalSystemNode.setNameAndTooltip(String, String, String)` method removed
-: The new `setNameAndTooltip(PresentationData, String, String, String)` overload should be used instead.
+: Use `setNameAndTooltip(PresentationData, String, String, String)` overload instead.
 
 `com.intellij.openapi.externalSystem.view.ExternalSystemNode.setNameAndTooltip(String, String, SimpleTextAttributes)` method removed
-: The new `setNameAndTooltip(PresentationData, String, String, SimpleTextAttributes)` overload should be used instead.
+: Use `setNameAndTooltip(PresentationData, String, String, SimpleTextAttributes)` overload instead.
 
+`com.intellij.ssh.config.unified.SshConfigManager.register(boolean, String, String, String, String, AuthType, String, String, boolean, boolean, String, String)` method parameter `String` removed
+: Local port is the part of the tunnel configuration, not SSH settings.
+
+`com.intellij.openapi.fileEditor.impl.HTMLEditorProvider.Companion.getAFFINITY_KEY()` method removed
+: It was an accidentally exposed internal API. Please use `HTMLEditorProvider.openEditor()` methods, or implement your own file editor provider.
+
+### Database Plugin 2023.1
+
+`com.intellij.database.dataSource.url.TypeDescriptor.ParamEditor` class moved to package `com.intellij.database.dataSource.url`
+: The inner interface was moved to upper level.
+
+`com.intellij.database.dataSource.url.TypesRegistry.BaseTypeDescriptor` class moved to package `com.intellij.database.dataSource.url.ui`
+: UI extracted from `TypesRegistry` to `TypesRegistryUi`. Use `com.intellij.database.urlParamEditorProvider` extension point to register parameter descriptor, use `com.intellij.database.urlParamEditorUiProvider` extension point to register parameter editor descriptor.
+
+### JavaScript Debugger Plugin 2023.1
+
+`org.jetbrains.wip.WipVm.initDomains()` method return type changed from `void` to `org.jetbrains.concurrency.Promise<*>`
+: `initDomains()` is now awaitable to make WIP/CDP domains-dependent initialization logic possible
+
+`org.jetbrains.wip.WipVm.ready()` method return type changed from `void` to `org.jetbrains.concurrency.Promise<*>`
+: `ready()` is now awaitable to make WIP/CDP connection-dependent initialization logic possible
