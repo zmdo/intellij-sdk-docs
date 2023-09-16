@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Iguana \| 2023.2.1 Canary 4 | ![Canary][canary] | September 15, 2023 | **2023.2.1.4** <br/> AI-232.9921.47.2321.10809744 | **2023.2.2** <br/> 232.9921.47 |
 | Iguana \| 2023.2.1 Canary 3 | ![Canary][canary] | September 7, 2023 | **2023.2.1.3** <br/> AI-232.9559.62.2321.10773421 | **2023.2.1** <br/> 232.9559.62 |
 | Iguana \| 2023.2.1 Canary 2 | ![Canary][canary] | September 5, 2023 | **2023.2.1.2** <br/> AI-232.9559.62.2321.10749089 | **2023.2.1** <br/> 232.9559.62 |
 | Iguana \| 2023.2.1 Canary 1 | ![Canary][canary] | August 25, 2023 | **2023.2.1.1** <br/> AI-232.8660.185.2321.10696284 | **2023.2** <br/> 232.8660.185 |
@@ -460,11 +461,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Iguana \| 2023.2.1 Canary 4 | ![Canary][canary] | September 15, 2023 | **2023.2.1.4** <br/> AI-232.9921.47.2321.10809744 | **2023.2.2** <br/> 232.9921.47 |
 | Iguana \| 2023.2.1 Canary 3 | ![Canary][canary] | September 7, 2023 | **2023.2.1.3** <br/> AI-232.9559.62.2321.10773421 | **2023.2.1** <br/> 232.9559.62 |
 | Iguana \| 2023.2.1 Canary 2 | ![Canary][canary] | September 5, 2023 | **2023.2.1.2** <br/> AI-232.9559.62.2321.10749089 | **2023.2.1** <br/> 232.9559.62 |
 | Hedgehog \| 2023.1.1 Beta 4 | ![Beta][beta] | September 13, 2023 | **2023.1.1.20** <br/> AI-231.9392.1.2311.10779794 | **2023.1.5** <br/> 231.9392.1 |
 | Hedgehog \| 2023.1.1 Beta 3 | ![Beta][beta] | September 7, 2023 | **2023.1.1.19** <br/> AI-231.9392.1.2311.10749307 | **2023.1.5** <br/> 231.9392.1 |
-| Hedgehog \| 2023.1.1 Beta 2 | ![Beta][beta] | September 5, 2023 | **2023.1.1.18** <br/> AI-231.9392.1.2311.10717887 | **2023.1.5** <br/> 231.9392.1 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
