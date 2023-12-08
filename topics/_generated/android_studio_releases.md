@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Iguana \| 2023.2.1 Canary 17 | ![Canary][canary] | December 7, 2023 | **2023.2.1.17** <br/> AI-232.10227.8.2321.11191411 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 16 | ![Canary][canary] | November 30, 2023 | **2023.2.1.16** <br/> AI-232.10227.8.2321.11161997 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 15 | ![Canary][canary] | November 28, 2023 | **2023.2.1.15** <br/> AI-232.10227.8.2321.11145877 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 14 | ![Canary][canary] | November 16, 2023 | **2023.2.1.14** <br/> AI-232.10227.8.2321.11110254 | **2023.2.5** <br/> 232.10227.8 |
@@ -482,11 +483,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Iguana \| 2023.2.1 Canary 17 | ![Canary][canary] | December 7, 2023 | **2023.2.1.17** <br/> AI-232.10227.8.2321.11191411 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 16 | ![Canary][canary] | November 30, 2023 | **2023.2.1.16** <br/> AI-232.10227.8.2321.11161997 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 15 | ![Canary][canary] | November 28, 2023 | **2023.2.1.15** <br/> AI-232.10227.8.2321.11145877 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 14 | ![Canary][canary] | November 16, 2023 | **2023.2.1.14** <br/> AI-232.10227.8.2321.11110254 | **2023.2.5** <br/> 232.10227.8 |
 | Hedgehog \| 2023.1.1 | ![Release][release] | November 30, 2023 | **2023.1.1.26** <br/> AI-231.9392.1.2311.11076708 | **2023.1.5** <br/> 231.9392.1 |
-| Giraffe \| 2022.3.1 Patch 4 | ![Patch][patch] | November 16, 2023 | **2022.3.1.22** <br/> AI-223.8836.35.2231.11090377 | **2022.3.3** <br/> 223.8836.35 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
