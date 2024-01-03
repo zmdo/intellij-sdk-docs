@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Jellyfish \| 2023.3.1 Canary 2 | ![Canary][canary] | January 2, 2024 | **2023.3.1.2** <br/> AI-233.13135.103.2331.11259770 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 1 | ![Canary][canary] | December 28, 2023 | **2023.3.1.1** <br/> AI-233.13135.103.2331.11247450 | **2023.3.2** <br/> 233.13135.103 |
 | Iguana \| 2023.2.1 Beta 1 | ![Beta][beta] | December 26, 2023 | **2023.2.1.19** <br/> AI-232.10227.8.2321.11231672 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 18 | ![Canary][canary] | December 13, 2023 | **2023.2.1.18** <br/> AI-232.10227.8.2321.11203637 | **2023.2.5** <br/> 232.10227.8 |
@@ -486,11 +487,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Jellyfish \| 2023.3.1 Canary 2 | ![Canary][canary] | January 2, 2024 | **2023.3.1.2** <br/> AI-233.13135.103.2331.11259770 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 1 | ![Canary][canary] | December 28, 2023 | **2023.3.1.1** <br/> AI-233.13135.103.2331.11247450 | **2023.3.2** <br/> 233.13135.103 |
 | Iguana \| 2023.2.1 Beta 1 | ![Beta][beta] | December 26, 2023 | **2023.2.1.19** <br/> AI-232.10227.8.2321.11231672 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 18 | ![Canary][canary] | December 13, 2023 | **2023.2.1.18** <br/> AI-232.10227.8.2321.11203637 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 17 | ![Canary][canary] | December 7, 2023 | **2023.2.1.17** <br/> AI-232.10227.8.2321.11191411 | **2023.2.5** <br/> 232.10227.8 |
-| Iguana \| 2023.2.1 Canary 16 | ![Canary][canary] | November 30, 2023 | **2023.2.1.16** <br/> AI-232.10227.8.2321.11161997 | **2023.2.5** <br/> 232.10227.8 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
