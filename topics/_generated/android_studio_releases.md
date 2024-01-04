@@ -27,6 +27,7 @@
 | Iguana \| 2023.2.1 Canary 3 | ![Canary][canary] | September 7, 2023 | **2023.2.1.3** <br/> AI-232.9559.62.2321.10773421 | **2023.2.1** <br/> 232.9559.62 |
 | Iguana \| 2023.2.1 Canary 2 | ![Canary][canary] | September 5, 2023 | **2023.2.1.2** <br/> AI-232.9559.62.2321.10749089 | **2023.2.1** <br/> 232.9559.62 |
 | Iguana \| 2023.2.1 Canary 1 | ![Canary][canary] | August 25, 2023 | **2023.2.1.1** <br/> AI-232.8660.185.2321.10696284 | **2023.2** <br/> 232.8660.185 |
+| Hedgehog \| 2023.1.1 Patch 1 | ![Patch][patch] | January 3, 2024 | **2023.1.1.27** <br/> AI-231.9392.1.2311.11255304 | **2023.1.5** <br/> 231.9392.1 |
 | Hedgehog \| 2023.1.1 | ![Release][release] | November 30, 2023 | **2023.1.1.26** <br/> AI-231.9392.1.2311.11076708 | **2023.1.5** <br/> 231.9392.1 |
 | Hedgehog \| 2023.1.1 RC 3 | ![RC][rc] | November 9, 2023 | **2023.1.1.25** <br/> AI-231.9392.1.2311.11047128 | **2023.1.5** <br/> 231.9392.1 |
 | Hedgehog \| 2023.1.1 RC 2 | ![RC][rc] | October 30, 2023 | **2023.1.1.24** <br/> AI-231.9392.1.2311.10980684 | **2023.1.5** <br/> 231.9392.1 |
@@ -491,7 +492,7 @@
 | Jellyfish \| 2023.3.1 Canary 1 | ![Canary][canary] | December 28, 2023 | **2023.3.1.1** <br/> AI-233.13135.103.2331.11247450 | **2023.3.2** <br/> 233.13135.103 |
 | Iguana \| 2023.2.1 Beta 1 | ![Beta][beta] | December 26, 2023 | **2023.2.1.19** <br/> AI-232.10227.8.2321.11231672 | **2023.2.5** <br/> 232.10227.8 |
 | Iguana \| 2023.2.1 Canary 18 | ![Canary][canary] | December 13, 2023 | **2023.2.1.18** <br/> AI-232.10227.8.2321.11203637 | **2023.2.5** <br/> 232.10227.8 |
-| Iguana \| 2023.2.1 Canary 17 | ![Canary][canary] | December 7, 2023 | **2023.2.1.17** <br/> AI-232.10227.8.2321.11191411 | **2023.2.5** <br/> 232.10227.8 |
+| Hedgehog \| 2023.1.1 Patch 1 | ![Patch][patch] | January 3, 2024 | **2023.1.1.27** <br/> AI-231.9392.1.2311.11255304 | **2023.1.5** <br/> 231.9392.1 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
