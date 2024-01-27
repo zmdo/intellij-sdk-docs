@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Jellyfish \| 2023.3.1 Canary 7 | ![Canary][canary] | January 26, 2024 | **2023.3.1.7** <br/> AI-233.13135.103.2331.11360849 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 6 | ![Canary][canary] | January 24, 2024 | **2023.3.1.6** <br/> AI-233.13135.103.2331.11350331 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 5 | ![Canary][canary] | January 22, 2024 | **2023.3.1.5** <br/> AI-233.13135.103.2331.11329247 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 4 | ![Canary][canary] | January 12, 2024 | **2023.3.1.4** <br/> AI-233.13135.103.2331.11301475 | **2023.3.2** <br/> 233.13135.103 |
@@ -494,10 +495,10 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Jellyfish \| 2023.3.1 Canary 7 | ![Canary][canary] | January 26, 2024 | **2023.3.1.7** <br/> AI-233.13135.103.2331.11360849 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 6 | ![Canary][canary] | January 24, 2024 | **2023.3.1.6** <br/> AI-233.13135.103.2331.11350331 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 5 | ![Canary][canary] | January 22, 2024 | **2023.3.1.5** <br/> AI-233.13135.103.2331.11329247 | **2023.3.2** <br/> 233.13135.103 |
 | Jellyfish \| 2023.3.1 Canary 4 | ![Canary][canary] | January 12, 2024 | **2023.3.1.4** <br/> AI-233.13135.103.2331.11301475 | **2023.3.2** <br/> 233.13135.103 |
-| Iguana \| 2023.2.1 Beta 2 | ![Beta][beta] | January 10, 2024 | **2023.2.1.20** <br/> AI-232.10227.8.2321.11280706 | **2023.2.5** <br/> 232.10227.8 |
 | Hedgehog \| 2023.1.1 Patch 2 | ![Patch][patch] | January 23, 2024 | **2023.1.1.28** <br/> AI-231.9392.1.2311.11330709 | **2023.1.5** <br/> 231.9392.1 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
