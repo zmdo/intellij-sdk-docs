@@ -6,9 +6,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Ladybug \| 2024.2.1 Canary 4 | ![Canary][canary] | August 6, 2024 | **2024.2.1.1** <br/> AI-242.20224.159.2421.12169541 | **null** <br/> 242.20224.159 |
 | Ladybug \| 2024.1.3 Canary 3 | ![Canary][canary] | July 25, 2024 | **2024.1.3.3** <br/> AI-241.18034.62.2413.12138059 | **2024.1.4** <br/> 241.18034.62 |
 | Ladybug \| 2024.1.3 Canary 2 | ![Canary][canary] | July 22, 2024 | **2024.1.3.2** <br/> AI-241.18034.62.2413.12109192 | **2024.1.4** <br/> 241.18034.62 |
 | Ladybug \| 2024.1.3 Canary 1 | ![Canary][canary] | July 15, 2024 | **2024.1.3.1** <br/> AI-241.18034.62.2413.12081498 | **2024.1.4** <br/> 241.18034.62 |
+| Koala Feature Drop \| 2024.1.2 RC 1 | ![RC][rc] | August 6, 2024 | **2024.1.2.11** <br/> AI-241.18034.62.2412.12169539 | **2024.1.4** <br/> 241.18034.62 |
 | Koala Feature Drop \| 2024.1.2 Beta 2 | ![Beta][beta] | July 24, 2024 | **2024.1.2.10** <br/> AI-241.18034.62.2412.12084018 | **2024.1.4** <br/> 241.18034.62 |
 | Koala Feature Drop \| 2024.1.2 Beta 1 | ![Beta][beta] | July 10, 2024 | **2024.1.2.9** <br/> AI-241.18034.62.2412.12048879 | **2024.1.4** <br/> 241.18034.62 |
 | Koala Feature Drop \| 2024.1.2 Canary 8 | ![Canary][canary] | June 27, 2024 | **2024.1.2.8** <br/> AI-241.18034.62.2412.12022747 | **2024.1.4** <br/> 241.18034.62 |
@@ -547,11 +549,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Ladybug \| 2024.2.1 Canary 4 | ![Canary][canary] | August 6, 2024 | **2024.2.1.1** <br/> AI-242.20224.159.2421.12169541 | **null** <br/> 242.20224.159 |
 | Ladybug \| 2024.1.3 Canary 3 | ![Canary][canary] | July 25, 2024 | **2024.1.3.3** <br/> AI-241.18034.62.2413.12138059 | **2024.1.4** <br/> 241.18034.62 |
 | Ladybug \| 2024.1.3 Canary 2 | ![Canary][canary] | July 22, 2024 | **2024.1.3.2** <br/> AI-241.18034.62.2413.12109192 | **2024.1.4** <br/> 241.18034.62 |
-| Ladybug \| 2024.1.3 Canary 1 | ![Canary][canary] | July 15, 2024 | **2024.1.3.1** <br/> AI-241.18034.62.2413.12081498 | **2024.1.4** <br/> 241.18034.62 |
+| Koala Feature Drop \| 2024.1.2 RC 1 | ![RC][rc] | August 6, 2024 | **2024.1.2.11** <br/> AI-241.18034.62.2412.12169539 | **2024.1.4** <br/> 241.18034.62 |
 | Koala Feature Drop \| 2024.1.2 Beta 2 | ![Beta][beta] | July 24, 2024 | **2024.1.2.10** <br/> AI-241.18034.62.2412.12084018 | **2024.1.4** <br/> 241.18034.62 |
-| Koala \| 2024.1.1 Patch 1 | ![Patch][patch] | July 11, 2024 | **2024.1.1.12** <br/> AI-241.18034.62.2411.12071903 | **2024.1.4** <br/> 241.18034.62 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
