@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Ladybug Feature Drop \| 2024.2.2 Canary 7 | ![Canary][canary] | October 17, 2024 | **2024.2.2.7** <br/> AI-242.23339.11.2422.12512484 | **2024.2.3** <br/> 242.23339.11 |
 | Ladybug Feature Drop \| 2024.2.2 Canary 6 | ![Canary][canary] | October 14, 2024 | **2024.2.2.6** <br/> AI-242.23339.11.2422.12480590 | **2024.2.3** <br/> 242.23339.11 |
 | Ladybug Feature Drop \| 2024.2.2 Canary 5 | ![Canary][canary] | October 3, 2024 | **2024.2.2.5** <br/> AI-242.23339.11.2422.12448552 | **2024.2.3** <br/> 242.23339.11 |
 | Ladybug Feature Drop \| 2024.2.2 Canary 4 | ![Canary][canary] | September 26, 2024 | **2024.2.2.4** <br/> AI-242.23339.11.2422.12417746 | **2024.2.3** <br/> 242.23339.11 |
@@ -568,9 +569,9 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Ladybug Feature Drop \| 2024.2.2 Canary 7 | ![Canary][canary] | October 17, 2024 | **2024.2.2.7** <br/> AI-242.23339.11.2422.12512484 | **2024.2.3** <br/> 242.23339.11 |
 | Ladybug Feature Drop \| 2024.2.2 Canary 6 | ![Canary][canary] | October 14, 2024 | **2024.2.2.6** <br/> AI-242.23339.11.2422.12480590 | **2024.2.3** <br/> 242.23339.11 |
 | Ladybug Feature Drop \| 2024.2.2 Canary 5 | ![Canary][canary] | October 3, 2024 | **2024.2.2.5** <br/> AI-242.23339.11.2422.12448552 | **2024.2.3** <br/> 242.23339.11 |
-| Ladybug Feature Drop \| 2024.2.2 Canary 4 | ![Canary][canary] | September 26, 2024 | **2024.2.2.4** <br/> AI-242.23339.11.2422.12417746 | **2024.2.3** <br/> 242.23339.11 |
 | Ladybug \| 2024.2.1 Patch 1 | ![Patch][patch] | October 14, 2024 | **2024.2.1.10** <br/> AI-242.23339.11.2421.12483815 | **2024.2.3** <br/> 242.23339.11 |
 | Ladybug \| 2024.2.1 | ![Release][release] | October 1, 2024 | **2024.2.1.9** <br/> AI-242.21829.142.2421.12409432 | **2024.2.1** <br/> 242.21829.142 |
 
