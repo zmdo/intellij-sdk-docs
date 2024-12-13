@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Meerkat \| 2024.3.1 Canary 5 | ![Canary][canary] | December 12, 2024 | **2024.3.1.5** <br/> AI-243.21565.193.2431.12752199 | **2024.3** <br/> 243.21565.193 |
 | Meerkat \| 2024.3.1 Canary 4 | ![Canary][canary] | December 2, 2024 | **2024.3.1.4** <br/> AI-243.21565.193.2431.12735582 | **2024.3** <br/> 243.21565.193 |
 | Meerkat \| 2024.3.1 Canary 3 | ![Canary][canary] | November 21, 2024 | **2024.3.1.3** <br/> AI-243.21565.193.2431.12691553 | **2024.3** <br/> 243.21565.193 |
 | Meerkat \| 2024.3.1 Canary 2 | ![Canary][canary] | November 14, 2024 | **2024.3.1.2** <br/> AI-243.21565.129.2431.12655144 | **2024.3** <br/> 243.21565.129 |
@@ -579,10 +580,10 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Meerkat \| 2024.3.1 Canary 5 | ![Canary][canary] | December 12, 2024 | **2024.3.1.5** <br/> AI-243.21565.193.2431.12752199 | **2024.3** <br/> 243.21565.193 |
 | Meerkat \| 2024.3.1 Canary 4 | ![Canary][canary] | December 2, 2024 | **2024.3.1.4** <br/> AI-243.21565.193.2431.12735582 | **2024.3** <br/> 243.21565.193 |
 | Meerkat \| 2024.3.1 Canary 3 | ![Canary][canary] | November 21, 2024 | **2024.3.1.3** <br/> AI-243.21565.193.2431.12691553 | **2024.3** <br/> 243.21565.193 |
 | Ladybug Feature Drop \| 2024.2.2 RC 1 | ![RC][rc] | December 5, 2024 | **2024.2.2.11** <br/> AI-242.23726.103.2422.12721465 | **2024.2.4** <br/> 242.23726.103 |
-| Ladybug Feature Drop \| 2024.2.2 Beta 1 | ![Beta][beta] | November 18, 2024 | **2024.2.2.10** <br/> AI-242.23726.103.2422.12630895 | **2024.2.4** <br/> 242.23726.103 |
 | Ladybug \| 2024.2.1 Patch 3 | ![Patch][patch] | December 2, 2024 | **2024.2.1.12** <br/> AI-242.23339.11.2421.12700392 | **2024.2.3** <br/> 242.23339.11 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
