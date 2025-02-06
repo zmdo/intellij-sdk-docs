@@ -9,6 +9,7 @@
 | Meerkat Feature Drop \| 2024.3.2 Canary 3 | ![Canary][canary] | February 3, 2025 | **2024.3.2.3** <br/> AI-243.23654.117.2432.12988063 | **2024.3.2** <br/> 243.23654.117 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 2 | ![Canary][canary] | January 23, 2025 | **2024.3.2.2** <br/> AI-243.22562.218.2432.12959061 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 1 | ![Canary][canary] | January 21, 2025 | **2024.3.2.1** <br/> AI-243.22562.218.2432.12933754 | **2024.3.2** <br/> 243.22562.218 |
+| Meerkat \| 2024.3.1 RC 1 | ![RC][rc] | February 5, 2025 | **2024.3.1.11** <br/> AI-243.22562.218.2431.12996373 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat \| 2024.3.1 Beta 1 | ![Beta][beta] | January 22, 2025 | **2024.3.1.10** <br/> AI-243.22562.218.2431.12926017 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat \| 2024.3.1 Canary 9 | ![Canary][canary] | January 10, 2025 | **2024.3.1.9** <br/> AI-243.22562.218.2431.12894773 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat \| 2024.3.1 Canary 8 | ![Canary][canary] | January 6, 2025 | **2024.3.1.8** <br/> AI-243.22562.145.2431.12862218 | **2024.3.1** <br/> 243.22562.145 |
@@ -593,8 +594,8 @@
 | Meerkat Feature Drop \| 2024.3.2 Canary 3 | ![Canary][canary] | February 3, 2025 | **2024.3.2.3** <br/> AI-243.23654.117.2432.12988063 | **2024.3.2** <br/> 243.23654.117 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 2 | ![Canary][canary] | January 23, 2025 | **2024.3.2.2** <br/> AI-243.22562.218.2432.12959061 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 1 | ![Canary][canary] | January 21, 2025 | **2024.3.2.1** <br/> AI-243.22562.218.2432.12933754 | **2024.3.2** <br/> 243.22562.218 |
+| Meerkat \| 2024.3.1 RC 1 | ![RC][rc] | February 5, 2025 | **2024.3.1.11** <br/> AI-243.22562.218.2431.12996373 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat \| 2024.3.1 Beta 1 | ![Beta][beta] | January 22, 2025 | **2024.3.1.10** <br/> AI-243.22562.218.2431.12926017 | **2024.3.2** <br/> 243.22562.218 |
-| Meerkat \| 2024.3.1 Canary 9 | ![Canary][canary] | January 10, 2025 | **2024.3.1.9** <br/> AI-243.22562.218.2431.12894773 | **2024.3.2** <br/> 243.22562.218 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
