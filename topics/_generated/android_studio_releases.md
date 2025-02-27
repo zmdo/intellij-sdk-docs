@@ -24,6 +24,7 @@
 | Meerkat \| 2024.3.1 Canary 3 | ![Canary][canary] | November 21, 2024 | **2024.3.1.3** <br/> AI-243.21565.193.2431.12691553 | **2024.3** <br/> 243.21565.193 |
 | Meerkat \| 2024.3.1 Canary 2 | ![Canary][canary] | November 14, 2024 | **2024.3.1.2** <br/> AI-243.21565.129.2431.12655144 | **2024.3** <br/> 243.21565.129 |
 | Meerkat \| 2024.3.1 Canary 1 | ![Canary][canary] | November 12, 2024 | **2024.3.1.1** <br/> AI-243.21565.23.2431.12637205 | **2024.3** <br/> 243.21565.23 |
+| Ladybug Feature Drop \| 2024.2.2 Patch 2 | ![Patch][patch] | February 26, 2025 | **2024.2.2.15** <br/> AI-242.23726.103.2422.13103373 | **2024.2.4** <br/> 242.23726.103 |
 | Ladybug Feature Drop \| 2024.2.2 Patch 1 | ![Patch][patch] | February 13, 2025 | **2024.2.2.14** <br/> AI-242.23726.103.2422.13016713 | **2024.2.4** <br/> 242.23726.103 |
 | Ladybug Feature Drop \| 2024.2.2 | ![Release][release] | January 9, 2025 | **2024.2.2.13** <br/> AI-242.23726.103.2422.12816248 | **2024.2.4** <br/> 242.23726.103 |
 | Ladybug Feature Drop \| 2024.2.2 RC 2 | ![RC][rc] | December 16, 2024 | **2024.2.2.12** <br/> AI-242.23726.103.2422.12785815 | **2024.2.4** <br/> 242.23726.103 |
@@ -598,8 +599,8 @@
 |--------------|:-------:|--------------|---------|-----------------------|
 | Meerkat Feature Drop \| 2024.3.2 Canary 6 | ![Canary][canary] | February 21, 2025 | **2024.3.2.6** <br/> AI-243.24978.46.2432.13093109 | **2024.3.3** <br/> 243.24978.46 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 5 | ![Canary][canary] | February 13, 2025 | **2024.3.2.5** <br/> AI-243.23654.117.2432.13058383 | **2024.3.2** <br/> 243.23654.117 |
-| Meerkat Feature Drop \| 2024.3.2 Canary 4 | ![Canary][canary] | February 6, 2025 | **2024.3.2.4** <br/> AI-243.23654.117.2432.13021186 | **2024.3.2** <br/> 243.23654.117 |
 | Meerkat \| 2024.3.1 RC 2 | ![RC][rc] | February 18, 2025 | **2024.3.1.12** <br/> AI-243.22562.218.2431.13054891 | **2024.3.2** <br/> 243.22562.218 |
+| Ladybug Feature Drop \| 2024.2.2 Patch 2 | ![Patch][patch] | February 26, 2025 | **2024.2.2.15** <br/> AI-242.23726.103.2422.13103373 | **2024.2.4** <br/> 242.23726.103 |
 | Ladybug Feature Drop \| 2024.2.2 Patch 1 | ![Patch][patch] | February 13, 2025 | **2024.2.2.14** <br/> AI-242.23726.103.2422.13016713 | **2024.2.4** <br/> 242.23726.103 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
