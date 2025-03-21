@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 2 | ![Canary][canary] | March 20, 2025 | **2025.1.1.2** <br/> AI-251.23774.16.2511.13244498 | **null** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 1 | ![Canary][canary] | March 19, 2025 | **2025.1.1.1** <br/> AI-251.23774.16.2511.13239840 | **null** <br/> 251.23774.16 |
 
 
@@ -609,10 +610,10 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 2 | ![Canary][canary] | March 20, 2025 | **2025.1.1.2** <br/> AI-251.23774.16.2511.13244498 | **null** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 1 | ![Canary][canary] | March 19, 2025 | **2025.1.1.1** <br/> AI-251.23774.16.2511.13239840 | **null** <br/> 251.23774.16 |
 | Meerkat Feature Drop \| 2024.3.2 Beta 1 | ![Beta][beta] | March 18, 2025 | **2024.3.2.9** <br/> AI-243.25659.59.2432.13218502 | **2024.3.5** <br/> 243.25659.59 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 8 | ![Canary][canary] | March 7, 2025 | **2024.3.2.8** <br/> AI-243.24978.46.2432.13174079 | **2024.3.3** <br/> 243.24978.46 |
-| Meerkat Feature Drop \| 2024.3.2 Canary 7 | ![Canary][canary] | February 27, 2025 | **2024.3.2.7** <br/> AI-243.24978.46.2432.13133389 | **2024.3.3** <br/> 243.24978.46 |
 | Meerkat \| 2024.3.1 | ![Release][release] | March 4, 2025 | **2024.3.1.13** <br/> AI-243.22562.218.2431.13114758 | **2024.3.2** <br/> 243.22562.218 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
