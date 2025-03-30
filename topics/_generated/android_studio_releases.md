@@ -23,14 +23,14 @@
 | Meerkat Feature Drop \| 2024.3.2 Canary 5 | ![Canary][canary] | February 13, 2025 | **2024.3.2.5** <br/> AI-243.23654.117.2432.13058383 | **2024.3.2** <br/> 243.23654.117 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 4 | ![Canary][canary] | February 6, 2025 | **2024.3.2.4** <br/> AI-243.23654.117.2432.13021186 | **2024.3.2** <br/> 243.23654.117 |
 | Meerkat Feature Drop \| 2024.3.2 Canary 3 | ![Canary][canary] | February 3, 2025 | **2024.3.2.3** <br/> AI-243.23654.117.2432.12988063 | **2024.3.2** <br/> 243.23654.117 |
-| Meerkat Feature Drop \| 2024.3.2 Canary 2 | ![Canary][canary] | January 23, 2025 | **2024.3.2.2** <br/> AI-243.22562.218.2432.12959061 | **243.22562-EAP-CANDIDATE-SNAPSHOT** <br/> 243.22562.218 |
-| Meerkat Feature Drop \| 2024.3.2 Canary 1 | ![Canary][canary] | January 21, 2025 | **2024.3.2.1** <br/> AI-243.22562.218.2432.12933754 | **243.22562-EAP-CANDIDATE-SNAPSHOT** <br/> 243.22562.218 |
+| Meerkat Feature Drop \| 2024.3.2 Canary 2 | ![Canary][canary] | January 23, 2025 | **2024.3.2.2** <br/> AI-243.22562.218.2432.12959061 | **2024.3.2** <br/> 243.22562.218 |
+| Meerkat Feature Drop \| 2024.3.2 Canary 1 | ![Canary][canary] | January 21, 2025 | **2024.3.2.1** <br/> AI-243.22562.218.2432.12933754 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat \| 2024.3.1 Patch 1 | ![Patch][patch] | March 24, 2025 | **2024.3.1.14** <br/> AI-243.24978.46.2431.13208083 | **2024.3.3** <br/> 243.24978.46 |
-| Meerkat \| 2024.3.1 | ![Release][release] | March 4, 2025 | **2024.3.1.13** <br/> AI-243.22562.218.2431.13114758 | **243.22562-EAP-CANDIDATE-SNAPSHOT** <br/> 243.22562.218 |
-| Meerkat \| 2024.3.1 RC 2 | ![RC][rc] | February 18, 2025 | **2024.3.1.12** <br/> AI-243.22562.218.2431.13054891 | **243.22562-EAP-CANDIDATE-SNAPSHOT** <br/> 243.22562.218 |
-| Meerkat \| 2024.3.1 RC 1 | ![RC][rc] | February 5, 2025 | **2024.3.1.11** <br/> AI-243.22562.218.2431.12996373 | **243.22562-EAP-CANDIDATE-SNAPSHOT** <br/> 243.22562.218 |
-| Meerkat \| 2024.3.1 Beta 1 | ![Beta][beta] | January 22, 2025 | **2024.3.1.10** <br/> AI-243.22562.218.2431.12926017 | **243.22562-EAP-CANDIDATE-SNAPSHOT** <br/> 243.22562.218 |
-| Meerkat \| 2024.3.1 Canary 9 | ![Canary][canary] | January 10, 2025 | **2024.3.1.9** <br/> AI-243.22562.218.2431.12894773 | **243.22562-EAP-CANDIDATE-SNAPSHOT** <br/> 243.22562.218 |
+| Meerkat \| 2024.3.1 | ![Release][release] | March 4, 2025 | **2024.3.1.13** <br/> AI-243.22562.218.2431.13114758 | **2024.3.2** <br/> 243.22562.218 |
+| Meerkat \| 2024.3.1 RC 2 | ![RC][rc] | February 18, 2025 | **2024.3.1.12** <br/> AI-243.22562.218.2431.13054891 | **2024.3.2** <br/> 243.22562.218 |
+| Meerkat \| 2024.3.1 RC 1 | ![RC][rc] | February 5, 2025 | **2024.3.1.11** <br/> AI-243.22562.218.2431.12996373 | **2024.3.2** <br/> 243.22562.218 |
+| Meerkat \| 2024.3.1 Beta 1 | ![Beta][beta] | January 22, 2025 | **2024.3.1.10** <br/> AI-243.22562.218.2431.12926017 | **2024.3.2** <br/> 243.22562.218 |
+| Meerkat \| 2024.3.1 Canary 9 | ![Canary][canary] | January 10, 2025 | **2024.3.1.9** <br/> AI-243.22562.218.2431.12894773 | **2024.3.2** <br/> 243.22562.218 |
 | Meerkat \| 2024.3.1 Canary 8 | ![Canary][canary] | January 6, 2025 | **2024.3.1.8** <br/> AI-243.22562.145.2431.12862218 | **2024.3.1** <br/> 243.22562.145 |
 | Meerkat \| 2024.3.1 Canary 7 | ![Canary][canary] | December 23, 2024 | **2024.3.1.7** <br/> AI-243.22562.145.2431.12832016 | **2024.3.1** <br/> 243.22562.145 |
 | Meerkat \| 2024.3.1 Canary 6 | ![Canary][canary] | December 16, 2024 | **2024.3.1.6** <br/> AI-243.22562.145.2431.12789491 | **2024.3.1** <br/> 243.22562.145 |
