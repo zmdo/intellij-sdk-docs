@@ -2,6 +2,19 @@
 
 <snippet id="releases_table">
 
+## 2025.*
+
+| Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
+|--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 6 | ![Canary][canary] | April 10, 2025 | **2025.1.1.6** <br/> AI-251.23774.16.2511.13338727 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
+| Narwhal \| 2025.1.1 Canary 5 | ![Canary][canary] | April 8, 2025 | **2025.1.1.5** <br/> AI-251.23774.16.2511.13328238 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
+| Narwhal \| 2025.1.1 Canary 4 | ![Canary][canary] | April 3, 2025 | **2025.1.1.4** <br/> AI-251.23774.16.2511.13307899 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
+| Narwhal \| 2025.1.1 Canary 3 | ![Canary][canary] | March 27, 2025 | **2025.1.1.3** <br/> AI-251.23774.16.2511.13279860 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
+| Narwhal \| 2025.1.1 Canary 2 | ![Canary][canary] | March 20, 2025 | **2025.1.1.2** <br/> AI-251.23774.16.2511.13244498 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
+| Narwhal \| 2025.1.1 Canary 1 | ![Canary][canary] | March 19, 2025 | **2025.1.1.1** <br/> AI-251.23774.16.2511.13239840 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
+
+
+
 ## 2024.*
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
@@ -88,18 +101,6 @@
 | Koala \| 2024.1.1 Canary 5 | ![Canary][canary] | April 11, 2024 | **2024.1.1.3** <br/> AI-241.14494.240.2411.11700778 | **2024.1** <br/> 241.14494.240 |
 | Koala \| 2024.1.1 Canary 4 | ![Canary][canary] | April 8, 2024 | **2024.1.1.2** <br/> AI-241.14494.158.2411.11678081 | **2024.1** <br/> 241.14494.158 |
 | Koala \| 2024.1.1 Canary 3 | ![Canary][canary] | April 2, 2024 | **2024.1.1.1** <br/> AI-241.14494.158.2411.11648550 | **2024.1** <br/> 241.14494.158 |
-
-
-
-## 2025.*
-
-| Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
-|--------------|:-------:|--------------|---------|-----------------------|
-| Narwhal \| 2025.1.1 Canary 5 | ![Canary][canary] | April 8, 2025 | **2025.1.1.5** <br/> AI-251.23774.16.2511.13328238 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
-| Narwhal \| 2025.1.1 Canary 4 | ![Canary][canary] | April 3, 2025 | **2025.1.1.4** <br/> AI-251.23774.16.2511.13307899 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
-| Narwhal \| 2025.1.1 Canary 3 | ![Canary][canary] | March 27, 2025 | **2025.1.1.3** <br/> AI-251.23774.16.2511.13279860 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
-| Narwhal \| 2025.1.1 Canary 2 | ![Canary][canary] | March 20, 2025 | **2025.1.1.2** <br/> AI-251.23774.16.2511.13244498 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
-| Narwhal \| 2025.1.1 Canary 1 | ![Canary][canary] | March 19, 2025 | **2025.1.1.1** <br/> AI-251.23774.16.2511.13239840 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 
 
 
@@ -616,9 +617,9 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 6 | ![Canary][canary] | April 10, 2025 | **2025.1.1.6** <br/> AI-251.23774.16.2511.13338727 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 5 | ![Canary][canary] | April 8, 2025 | **2025.1.1.5** <br/> AI-251.23774.16.2511.13328238 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 4 | ![Canary][canary] | April 3, 2025 | **2025.1.1.4** <br/> AI-251.23774.16.2511.13307899 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
-| Narwhal \| 2025.1.1 Canary 3 | ![Canary][canary] | March 27, 2025 | **2025.1.1.3** <br/> AI-251.23774.16.2511.13279860 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Meerkat Feature Drop \| 2024.3.2 RC 2 | ![RC][rc] | April 9, 2025 | **2024.3.2.11** <br/> AI-243.25659.59.2432.13314846 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 | Meerkat Feature Drop \| 2024.3.2 RC 1 | ![RC][rc] | April 1, 2025 | **2024.3.2.10** <br/> AI-243.25659.59.2432.13282907 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 
