@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 7 | ![Canary][canary] | April 17, 2025 | **2025.1.1.7** <br/> AI-251.23774.16.2511.13371696 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 6 | ![Canary][canary] | April 10, 2025 | **2025.1.1.6** <br/> AI-251.23774.16.2511.13338727 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 5 | ![Canary][canary] | April 8, 2025 | **2025.1.1.5** <br/> AI-251.23774.16.2511.13328238 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 4 | ![Canary][canary] | April 3, 2025 | **2025.1.1.4** <br/> AI-251.23774.16.2511.13307899 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
@@ -617,11 +618,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 7 | ![Canary][canary] | April 17, 2025 | **2025.1.1.7** <br/> AI-251.23774.16.2511.13371696 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 6 | ![Canary][canary] | April 10, 2025 | **2025.1.1.6** <br/> AI-251.23774.16.2511.13338727 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 5 | ![Canary][canary] | April 8, 2025 | **2025.1.1.5** <br/> AI-251.23774.16.2511.13328238 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 4 | ![Canary][canary] | April 3, 2025 | **2025.1.1.4** <br/> AI-251.23774.16.2511.13307899 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Meerkat Feature Drop \| 2024.3.2 RC 2 | ![RC][rc] | April 9, 2025 | **2024.3.2.11** <br/> AI-243.25659.59.2432.13314846 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
-| Meerkat Feature Drop \| 2024.3.2 RC 1 | ![RC][rc] | April 1, 2025 | **2024.3.2.10** <br/> AI-243.25659.59.2432.13282907 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
