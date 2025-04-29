@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Meerkat Feature Drop \| 2024.3.2 RC 4 | ![RC][rc] | April 28, 2025 | **2024.3.2.13** <br/> AI-243.25659.59.2432.13404313 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 | Meerkat Feature Drop \| 2024.3.2 RC 3 | ![RC][rc] | April 22, 2025 | **2024.3.2.12** <br/> AI-243.25659.59.2432.13371692 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 | Meerkat Feature Drop \| 2024.3.2 RC 2 | ![RC][rc] | April 9, 2025 | **2024.3.2.11** <br/> AI-243.25659.59.2432.13314846 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 | Meerkat Feature Drop \| 2024.3.2 RC 1 | ![RC][rc] | April 1, 2025 | **2024.3.2.10** <br/> AI-243.25659.59.2432.13282907 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
@@ -97,6 +98,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 8 | ![Canary][canary] | April 28, 2025 | **2025.1.1.8** <br/> AI-251.23774.16.2511.13409254 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 7 | ![Canary][canary] | April 17, 2025 | **2025.1.1.7** <br/> AI-251.23774.16.2511.13371696 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 6 | ![Canary][canary] | April 10, 2025 | **2025.1.1.6** <br/> AI-251.23774.16.2511.13338727 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 5 | ![Canary][canary] | April 8, 2025 | **2025.1.1.5** <br/> AI-251.23774.16.2511.13328238 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
@@ -620,10 +622,10 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal \| 2025.1.1 Canary 8 | ![Canary][canary] | April 28, 2025 | **2025.1.1.8** <br/> AI-251.23774.16.2511.13409254 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
 | Narwhal \| 2025.1.1 Canary 7 | ![Canary][canary] | April 17, 2025 | **2025.1.1.7** <br/> AI-251.23774.16.2511.13371696 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
-| Narwhal \| 2025.1.1 Canary 6 | ![Canary][canary] | April 10, 2025 | **2025.1.1.6** <br/> AI-251.23774.16.2511.13338727 | **251.23774.16-EAP-SNAPSHOT** <br/> 251.23774.16 |
+| Meerkat Feature Drop \| 2024.3.2 RC 4 | ![RC][rc] | April 28, 2025 | **2024.3.2.13** <br/> AI-243.25659.59.2432.13404313 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 | Meerkat Feature Drop \| 2024.3.2 RC 3 | ![RC][rc] | April 22, 2025 | **2024.3.2.12** <br/> AI-243.25659.59.2432.13371692 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
-| Meerkat Feature Drop \| 2024.3.2 RC 2 | ![RC][rc] | April 9, 2025 | **2024.3.2.11** <br/> AI-243.25659.59.2432.13314846 | **243.25659-EAP-CANDIDATE-SNAPSHOT** <br/> 243.25659.59 |
 | Meerkat \| 2024.3.1 Patch 2 | ![Patch][patch] | April 21, 2025 | **2024.3.1.15** <br/> AI-243.24978.46.2431.13363775 | **2024.3.3** <br/> 243.24978.46 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
