@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal Feature Drop \| 2025.1.2 Canary 6 | ![Canary][canary] | June 20, 2025 | **2025.1.2.6** <br/> AI-251.26094.121.2512.13669762 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Canary 5 | ![Canary][canary] | June 13, 2025 | **2025.1.2.5** <br/> AI-251.26094.121.2512.13636022 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Canary 4 | ![Canary][canary] | June 6, 2025 | **2025.1.2.4** <br/> AI-251.26094.121.2512.13602698 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Canary 3 | ![Canary][canary] | May 29, 2025 | **2025.1.2.3** <br/> AI-251.25410.109.2512.13571611 | **2025.1.1** <br/> 251.25410.109 |
@@ -633,9 +634,9 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal Feature Drop \| 2025.1.2 Canary 6 | ![Canary][canary] | June 20, 2025 | **2025.1.2.6** <br/> AI-251.26094.121.2512.13669762 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Canary 5 | ![Canary][canary] | June 13, 2025 | **2025.1.2.5** <br/> AI-251.26094.121.2512.13636022 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Canary 4 | ![Canary][canary] | June 6, 2025 | **2025.1.2.4** <br/> AI-251.26094.121.2512.13602698 | **2025.1.2** <br/> 251.26094.121 |
-| Narwhal Feature Drop \| 2025.1.2 Canary 3 | ![Canary][canary] | May 29, 2025 | **2025.1.2.3** <br/> AI-251.25410.109.2512.13571611 | **2025.1.1** <br/> 251.25410.109 |
 | Narwhal \| 2025.1.1 RC 2 | ![RC][rc] | June 12, 2025 | **2025.1.1.12** <br/> AI-251.25410.109.2511.13625888 | **2025.1.1** <br/> 251.25410.109 |
 | Narwhal \| 2025.1.1 RC 1 | ![RC][rc] | June 3, 2025 | **2025.1.1.11** <br/> AI-251.25410.109.2511.13569669 | **2025.1.1** <br/> 251.25410.109 |
 
