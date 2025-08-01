@@ -6,8 +6,10 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal Feature Drop \| 2025.1.3 Canary 3 | ![Canary][canary] | July 31, 2025 | **2025.1.3.3** <br/> AI-251.26094.121.2513.13865387 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.3 Canary 2 | ![Canary][canary] | July 24, 2025 | **2025.1.3.2** <br/> AI-251.26094.121.2513.13829813 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.3 Canary 1 | ![Canary][canary] | July 21, 2025 | **2025.1.3.1** <br/> AI-251.26094.121.2513.13793675 | **2025.1.2** <br/> 251.26094.121 |
+| Narwhal Feature Drop \| 2025.1.2 | ![Release][release] | July 31, 2025 | **2025.1.2.11** <br/> AI-251.26094.121.2512.13840223 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 RC 1 | ![RC][rc] | July 18, 2025 | **2025.1.2.10** <br/> AI-251.26094.121.2512.13795096 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Canary 9 | ![Canary][canary] | July 14, 2025 | **2025.1.2.9** <br/> AI-251.26094.121.2512.13760328 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Canary 8 | ![Canary][canary] | July 2, 2025 | **2025.1.2.8** <br/> AI-251.26094.121.2512.13728066 | **2025.1.2** <br/> 251.26094.121 |
@@ -642,11 +644,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal Feature Drop \| 2025.1.3 Canary 3 | ![Canary][canary] | July 31, 2025 | **2025.1.3.3** <br/> AI-251.26094.121.2513.13865387 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.3 Canary 2 | ![Canary][canary] | July 24, 2025 | **2025.1.3.2** <br/> AI-251.26094.121.2513.13829813 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.3 Canary 1 | ![Canary][canary] | July 21, 2025 | **2025.1.3.1** <br/> AI-251.26094.121.2513.13793675 | **2025.1.2** <br/> 251.26094.121 |
+| Narwhal Feature Drop \| 2025.1.2 | ![Release][release] | July 31, 2025 | **2025.1.2.11** <br/> AI-251.26094.121.2512.13840223 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 RC 1 | ![RC][rc] | July 18, 2025 | **2025.1.2.10** <br/> AI-251.26094.121.2512.13795096 | **2025.1.2** <br/> 251.26094.121 |
-| Narwhal Feature Drop \| 2025.1.2 Canary 9 | ![Canary][canary] | July 14, 2025 | **2025.1.2.9** <br/> AI-251.26094.121.2512.13760328 | **2025.1.2** <br/> 251.26094.121 |
-| Narwhal \| 2025.1.1 Patch 1 | ![Patch][patch] | July 10, 2025 | **2025.1.1.14** <br/> AI-251.25410.109.2511.13752376 | **2025.1.1** <br/> 251.25410.109 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
