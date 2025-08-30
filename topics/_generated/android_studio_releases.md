@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal 4 Feature Drop \| 2025.1.4 Canary 3 | ![Canary][canary] | August 29, 2025 | **2025.1.4.3** <br/> AI-251.27812.49.2514.14014849 | **2025.1.5** <br/> 251.27812.49 |
 | Narwhal 4 Feature Drop \| 2025.1.4 Canary 2 | ![Canary][canary] | August 21, 2025 | **2025.1.4.2** <br/> AI-251.27812.49.2514.13971338 | **2025.1.5** <br/> 251.27812.49 |
 | Narwhal 4 Feature Drop \| 2025.1.4 Canary 1 | ![Canary][canary] | August 14, 2025 | **2025.1.4.1** <br/> AI-251.26094.121.2514.13932717 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal 3 Feature Drop \| 2025.1.3 RC 2 | ![RC][rc] | August 28, 2025 | **2025.1.3.6** <br/> AI-251.26094.121.2513.13991806 | **2025.1.2** <br/> 251.26094.121 |
@@ -651,8 +652,8 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Narwhal 4 Feature Drop \| 2025.1.4 Canary 3 | ![Canary][canary] | August 29, 2025 | **2025.1.4.3** <br/> AI-251.27812.49.2514.14014849 | **2025.1.5** <br/> 251.27812.49 |
 | Narwhal 4 Feature Drop \| 2025.1.4 Canary 2 | ![Canary][canary] | August 21, 2025 | **2025.1.4.2** <br/> AI-251.27812.49.2514.13971338 | **2025.1.5** <br/> 251.27812.49 |
-| Narwhal 4 Feature Drop \| 2025.1.4 Canary 1 | ![Canary][canary] | August 14, 2025 | **2025.1.4.1** <br/> AI-251.26094.121.2514.13932717 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal 3 Feature Drop \| 2025.1.3 RC 2 | ![RC][rc] | August 28, 2025 | **2025.1.3.6** <br/> AI-251.26094.121.2513.13991806 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Patch 2 | ![Patch][patch] | August 28, 2025 | **2025.1.2.13** <br/> AI-251.26094.121.2512.13991807 | **2025.1.2** <br/> 251.26094.121 |
 | Narwhal Feature Drop \| 2025.1.2 Patch 1 | ![Patch][patch] | August 18, 2025 | **2025.1.2.12** <br/> AI-251.26094.121.2512.13930704 | **2025.1.2** <br/> 251.26094.121 |
