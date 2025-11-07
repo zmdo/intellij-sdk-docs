@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Otter 2 Feature Drop \| 2025.2.2 Canary 4 | ![Canary][canary] | November 6, 2025 | **2025.2.2.4** <br/> AI-252.27397.103.2522.14395761 | **2025.2.4** <br/> 252.27397.103 |
 | Otter 2 Feature Drop \| 2025.2.2 Canary 3 | ![Canary][canary] | October 30, 2025 | **2025.2.2.3** <br/> AI-252.25557.131.2522.14357309 | **2025.2.1** <br/> 252.25557.131 |
 | Otter 2 Feature Drop \| 2025.2.2 Canary 2 | ![Canary][canary] | October 28, 2025 | **2025.2.2.2** <br/> AI-252.25557.131.2522.14326795 | **2025.2.1** <br/> 252.25557.131 |
 | Otter 2 Feature Drop \| 2025.2.2 Canary 1 | ![Canary][canary] | October 16, 2025 | **2025.2.2.1** <br/> AI-252.25557.131.2522.14279661 | **2025.2.1** <br/> 252.25557.131 |
@@ -668,11 +669,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Otter 2 Feature Drop \| 2025.2.2 Canary 4 | ![Canary][canary] | November 6, 2025 | **2025.2.2.4** <br/> AI-252.27397.103.2522.14395761 | **2025.2.4** <br/> 252.27397.103 |
 | Otter 2 Feature Drop \| 2025.2.2 Canary 3 | ![Canary][canary] | October 30, 2025 | **2025.2.2.3** <br/> AI-252.25557.131.2522.14357309 | **2025.2.1** <br/> 252.25557.131 |
 | Otter 2 Feature Drop \| 2025.2.2 Canary 2 | ![Canary][canary] | October 28, 2025 | **2025.2.2.2** <br/> AI-252.25557.131.2522.14326795 | **2025.2.1** <br/> 252.25557.131 |
 | Otter 2 Feature Drop \| 2025.2.2 Canary 1 | ![Canary][canary] | October 16, 2025 | **2025.2.2.1** <br/> AI-252.25557.131.2522.14279661 | **2025.2.1** <br/> 252.25557.131 |
 | Otter \| 2025.2.1 | ![Release][release] | October 30, 2025 | **2025.2.1.7** <br/> AI-252.25557.131.2521.14344949 | **2025.2.1** <br/> 252.25557.131 |
-| Otter \| 2025.2.1 RC 1 | ![RC][rc] | October 16, 2025 | **2025.2.1.6** <br/> AI-252.25557.131.2521.14270146 | **2025.2.1** <br/> 252.25557.131 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
