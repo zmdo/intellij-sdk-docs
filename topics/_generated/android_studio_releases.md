@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Panda 1 \| 2025.3.1 Canary 1 | ![Canary][canary] | December 19, 2025 | **2025.3.1.1** <br/> AI-253.28294.334.2531.14612490 | **2025.3** <br/> 253.28294.334 |
 | Otter 3 Feature Drop \| 2025.2.3 RC 1 | ![RC][rc] | December 18, 2025 | **2025.2.3.6** <br/> AI-252.28238.7.2523.14608894 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 Canary 5 | ![Canary][canary] | December 11, 2025 | **2025.2.3.5** <br/> AI-252.28238.7.2523.14575018 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 Canary 4 | ![Canary][canary] | December 8, 2025 | **2025.2.3.4** <br/> AI-252.28238.7.2523.14542061 | **2025.2.5** <br/> 252.28238.7 |
@@ -679,10 +680,10 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Panda 1 \| 2025.3.1 Canary 1 | ![Canary][canary] | December 19, 2025 | **2025.3.1.1** <br/> AI-253.28294.334.2531.14612490 | **2025.3** <br/> 253.28294.334 |
 | Otter 3 Feature Drop \| 2025.2.3 RC 1 | ![RC][rc] | December 18, 2025 | **2025.2.3.6** <br/> AI-252.28238.7.2523.14608894 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 Canary 5 | ![Canary][canary] | December 11, 2025 | **2025.2.3.5** <br/> AI-252.28238.7.2523.14575018 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 Canary 4 | ![Canary][canary] | December 8, 2025 | **2025.2.3.4** <br/> AI-252.28238.7.2523.14542061 | **2025.2.5** <br/> 252.28238.7 |
-| Otter 3 Feature Drop \| 2025.2.3 Canary 3 | ![Canary][canary] | November 26, 2025 | **2025.2.3.3** <br/> AI-252.28238.7.2523.14499447 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 2 Feature Drop \| 2025.2.2 | ![Release][release] | December 4, 2025 | **2025.2.2.7** <br/> AI-252.27397.103.2522.14514259 | **2025.2.4** <br/> 252.27397.103 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
