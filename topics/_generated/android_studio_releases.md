@@ -6,10 +6,12 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Panda 1 \| 2025.3.1 Canary 5 | ![Canary][canary] | January 15, 2026 | **2025.3.1.5** <br/> AI-253.29346.138.2531.14721781 | **2025.3.1** <br/> 253.29346.138 |
 | Panda 1 \| 2025.3.1 Canary 4 | ![Canary][canary] | January 8, 2026 | **2025.3.1.4** <br/> AI-253.29346.138.2531.14682307 | **2025.3.1** <br/> 253.29346.138 |
 | Panda 1 \| 2025.3.1 Canary 3 | ![Canary][canary] | January 5, 2026 | **2025.3.1.3** <br/> AI-253.29346.138.2531.14653457 | **2025.3.1** <br/> 253.29346.138 |
 | Panda 1 \| 2025.3.1 Canary 2 | ![Canary][canary] | December 29, 2025 | **2025.3.1.2** <br/> AI-253.29346.138.2531.14643844 | **2025.3.1** <br/> 253.29346.138 |
 | Panda 1 \| 2025.3.1 Canary 1 | ![Canary][canary] | December 19, 2025 | **2025.3.1.1** <br/> AI-253.28294.334.2531.14612490 | **2025.3** <br/> 253.28294.334 |
+| Otter 3 Feature Drop \| 2025.2.3 | ![Release][release] | January 15, 2026 | **2025.2.3.9** <br/> AI-252.28238.7.2523.14688667 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 RC 3 | ![RC][rc] | January 8, 2026 | **2025.2.3.8** <br/> AI-252.28238.7.2523.14678998 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 RC 2 | ![RC][rc] | December 29, 2025 | **2025.2.3.7** <br/> AI-252.28238.7.2523.14636682 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 RC 1 | ![RC][rc] | December 18, 2025 | **2025.2.3.6** <br/> AI-252.28238.7.2523.14608894 | **2025.2.5** <br/> 252.28238.7 |
@@ -686,11 +688,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Panda 1 \| 2025.3.1 Canary 5 | ![Canary][canary] | January 15, 2026 | **2025.3.1.5** <br/> AI-253.29346.138.2531.14721781 | **2025.3.1** <br/> 253.29346.138 |
 | Panda 1 \| 2025.3.1 Canary 4 | ![Canary][canary] | January 8, 2026 | **2025.3.1.4** <br/> AI-253.29346.138.2531.14682307 | **2025.3.1** <br/> 253.29346.138 |
 | Panda 1 \| 2025.3.1 Canary 3 | ![Canary][canary] | January 5, 2026 | **2025.3.1.3** <br/> AI-253.29346.138.2531.14653457 | **2025.3.1** <br/> 253.29346.138 |
-| Panda 1 \| 2025.3.1 Canary 2 | ![Canary][canary] | December 29, 2025 | **2025.3.1.2** <br/> AI-253.29346.138.2531.14643844 | **2025.3.1** <br/> 253.29346.138 |
+| Otter 3 Feature Drop \| 2025.2.3 | ![Release][release] | January 15, 2026 | **2025.2.3.9** <br/> AI-252.28238.7.2523.14688667 | **2025.2.5** <br/> 252.28238.7 |
 | Otter 3 Feature Drop \| 2025.2.3 RC 3 | ![RC][rc] | January 8, 2026 | **2025.2.3.8** <br/> AI-252.28238.7.2523.14678998 | **2025.2.5** <br/> 252.28238.7 |
-| Otter 3 Feature Drop \| 2025.2.3 RC 2 | ![RC][rc] | December 29, 2025 | **2025.2.3.7** <br/> AI-252.28238.7.2523.14636682 | **2025.2.5** <br/> 252.28238.7 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
