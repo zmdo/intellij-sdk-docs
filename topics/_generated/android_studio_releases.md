@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Panda 3 \| 2025.3.3 Canary 2 | ![Canary][canary] | February 26, 2026 | **2025.3.3.2** <br/> AI-253.30387.90.2533.14944052 | **2025.3.2** <br/> 253.30387.90 |
 | Panda 3 \| 2025.3.3 Canary 1 | ![Canary][canary] | February 19, 2026 | **2025.3.3.1** <br/> AI-253.30387.90.2533.14908187 | **2025.3.2** <br/> 253.30387.90 |
 | Panda 2 \| 2025.3.2 RC 1 | ![RC][rc] | February 19, 2026 | **2025.3.2.5** <br/> AI-253.30387.90.2532.14901460 | **2025.3.2** <br/> 253.30387.90 |
 | Panda 2 \| 2025.3.2 Canary 4 | ![Canary][canary] | February 12, 2026 | **2025.3.2.4** <br/> AI-253.30387.90.2532.14877032 | **2025.3.2** <br/> 253.30387.90 |
@@ -697,11 +698,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Panda 3 \| 2025.3.3 Canary 2 | ![Canary][canary] | February 26, 2026 | **2025.3.3.2** <br/> AI-253.30387.90.2533.14944052 | **2025.3.2** <br/> 253.30387.90 |
 | Panda 3 \| 2025.3.3 Canary 1 | ![Canary][canary] | February 19, 2026 | **2025.3.3.1** <br/> AI-253.30387.90.2533.14908187 | **2025.3.2** <br/> 253.30387.90 |
 | Panda 2 \| 2025.3.2 RC 1 | ![RC][rc] | February 19, 2026 | **2025.3.2.5** <br/> AI-253.30387.90.2532.14901460 | **2025.3.2** <br/> 253.30387.90 |
 | Panda 2 \| 2025.3.2 Canary 4 | ![Canary][canary] | February 12, 2026 | **2025.3.2.4** <br/> AI-253.30387.90.2532.14877032 | **2025.3.2** <br/> 253.30387.90 |
 | Panda 1 \| 2025.3.1 Patch 1 | ![Patch][patch] | February 13, 2026 | **2025.3.1.8** <br/> AI-253.29346.138.2531.14876573 | **2025.3.1** <br/> 253.29346.138 |
-| Panda 1 \| 2025.3.1 | ![Release][release] | February 10, 2026 | **2025.3.1.7** <br/> AI-253.29346.138.2531.14850935 | **2025.3.1** <br/> 253.29346.138 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
