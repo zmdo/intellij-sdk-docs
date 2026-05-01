@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Quail 1 \| 2026.1.1 Canary 3 | ![Canary][canary] | April 30, 2026 | **2026.1.1.3** <br/> AI-261.23567.138.2611.15319090 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 2 | ![Canary][canary] | April 24, 2026 | **2026.1.1.2** <br/> AI-261.22158.277.2611.15273486 | **2026.1** <br/> 261.22158.277 |
 | Quail 1 \| 2026.1.1 Canary 1 | ![Canary][canary] | April 16, 2026 | **2026.1.1.1** <br/> AI-261.22158.277.2611.15218332 | **2026.1** <br/> 261.22158.277 |
 
@@ -719,11 +720,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Quail 1 \| 2026.1.1 Canary 3 | ![Canary][canary] | April 30, 2026 | **2026.1.1.3** <br/> AI-261.23567.138.2611.15319090 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 2 | ![Canary][canary] | April 24, 2026 | **2026.1.1.2** <br/> AI-261.22158.277.2611.15273486 | **2026.1** <br/> 261.22158.277 |
 | Quail 1 \| 2026.1.1 Canary 1 | ![Canary][canary] | April 16, 2026 | **2026.1.1.1** <br/> AI-261.22158.277.2611.15218332 | **2026.1** <br/> 261.22158.277 |
 | Panda 4 \| 2025.3.4 | ![Release][release] | April 21, 2026 | **2025.3.4.6** <br/> AI-253.32098.37.2534.15232325 | **2025.3.4** <br/> 253.32098.37 |
 | Panda 4 \| 2025.3.4 RC 1 | ![RC][rc] | April 13, 2026 | **2025.3.4.5** <br/> AI-253.32098.37.2534.15181008 | **2025.3.4** <br/> 253.32098.37 |
-| Panda 3 \| 2025.3.3 Patch 1 | ![Patch][patch] | April 13, 2026 | **2025.3.3.7** <br/> AI-253.31033.145.2533.15176040 | **2025.3.3** <br/> 253.31033.145 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
