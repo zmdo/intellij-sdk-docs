@@ -6,6 +6,7 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Quail 1 \| 2026.1.1 Canary 5 | ![Canary][canary] | May 14, 2026 | **2026.1.1.5** <br/> AI-261.23567.138.2611.15415818 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 4 | ![Canary][canary] | May 7, 2026 | **2026.1.1.4** <br/> AI-261.23567.138.2611.15364863 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 3 | ![Canary][canary] | April 30, 2026 | **2026.1.1.3** <br/> AI-261.23567.138.2611.15319090 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 2 | ![Canary][canary] | April 24, 2026 | **2026.1.1.2** <br/> AI-261.22158.277.2611.15273486 | **2026.1** <br/> 261.22158.277 |
@@ -722,11 +723,11 @@
 
 | Release Name | Channel | Release Date | Version | IntelliJ IDEA Version |
 |--------------|:-------:|--------------|---------|-----------------------|
+| Quail 1 \| 2026.1.1 Canary 5 | ![Canary][canary] | May 14, 2026 | **2026.1.1.5** <br/> AI-261.23567.138.2611.15415818 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 4 | ![Canary][canary] | May 7, 2026 | **2026.1.1.4** <br/> AI-261.23567.138.2611.15364863 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 3 | ![Canary][canary] | April 30, 2026 | **2026.1.1.3** <br/> AI-261.23567.138.2611.15319090 | **2026.1.1** <br/> 261.23567.138 |
 | Quail 1 \| 2026.1.1 Canary 2 | ![Canary][canary] | April 24, 2026 | **2026.1.1.2** <br/> AI-261.22158.277.2611.15273486 | **2026.1** <br/> 261.22158.277 |
 | Panda 4 \| 2025.3.4 Patch 1 | ![Patch][patch] | May 5, 2026 | **2025.3.4.7** <br/> AI-253.32098.37.2534.15336583 | **2025.3.4** <br/> 253.32098.37 |
-| Panda 4 \| 2025.3.4 | ![Release][release] | April 21, 2026 | **2025.3.4.6** <br/> AI-253.32098.37.2534.15232325 | **2025.3.4** <br/> 253.32098.37 |
 
 [release]: https://img.shields.io/badge/-Release-blue?style=flat-square
 [patch]: https://img.shields.io/badge/-Patch-orange?style=flat-square
